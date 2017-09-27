@@ -1,15 +1,15 @@
 # Apuntes_ED
 
 Apuntes de Entornos de Desarrollo <br>
-1º DAW
-Curso 2017-2018
-Écija (Sevilla)
+1º DAW <br>
+Curso 2017-2018 <br>
+Écija (Sevilla) <br>
 
 ## Contenidos del módulo
 
-Unidad 1: Elementos de desarrollo del software
-Unidad 2: Enternos integrados de desarrollo 
-Unidad 3: Diseño y realización de prueba
-Unidad 4: Documentación y optimización
-Unidad 5: Elaboración de diagramas de clase
-Unidad 6: Elaboración de diagramas de comportamiento
+Unidad 1: Elementos de desarrollo del software <br>
+Unidad 2: Enternos integrados de desarrollo <br>
+Unidad 3: Diseño y realización de prueba <br>
+Unidad 4: Documentación y optimización <br>
+Unidad 5: Elaboración de diagramas de clase <br>
+Unidad 6: Elaboración de diagramas de comportamiento <br>
